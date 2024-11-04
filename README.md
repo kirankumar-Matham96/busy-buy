@@ -1,4 +1,4 @@
-# Busy Buy 2 (Redux)
+# Busy Buy (Redux)
 
 An easy-to-use online store where you can shop for various products. It is a modern e-commerce platform with various features aimed at providing a seamless shopping experience.
 
